@@ -1,4 +1,5 @@
 # 💫 About Me:
+I'm network administrator, since two 2020 I've been trying to become a devops engineer<br>
 I'm currently learning DevOps<br>
 
 
@@ -15,4 +16,4 @@ I'm currently learning DevOps<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=thekazem&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://ddrteam.net ) -->
